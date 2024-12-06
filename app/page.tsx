@@ -16,7 +16,7 @@ export default async function Home() {
 				</span>
 			</h1>
 
-			<h2 className="text-3xl font-bold mt-12 mb-4 ">List of Experiences</h2>
+			<h2 className="text-3xl font-bold mt-12 mb-4 ">Toolbox</h2>
 			<ul className="justify-self-start grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 ">
 				{projects.reverse().map((project) => (
 					<li
