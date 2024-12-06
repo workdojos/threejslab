@@ -5,13 +5,13 @@ export default async function Home() {
 	return (
 		<main className="flex min-h-screen flex-col p-8  md:p-24 max-w-7xl mx-auto">
 			<h1 className="text-6xl font-medium mb-8 text-center font-headline">
-				Welcome to ThreeJS playgound by
+				ThreeJS lab
 				<span className="text-orange-700 underline block">
 					<a
-						href={"https://www.linkedin.com/in/sergii-medvid/"}
+						href={"https://www.linkedin.com/company/oneplacepress"}
 						target="_blank"
 					>
-						Sergii Medvid
+						OnePlace
 					</a>
 				</span>
 			</h1>
