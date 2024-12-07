@@ -9,7 +9,7 @@ type Props = {
 } & CanvasProps;
 
 export const CanvasWrapper = React.forwardRef<HTMLCanvasElement, Props>(
-	({ children, className, withPerf = true, ...rest }, ref) => {
+	({ children, className, withPerf = false, ...rest }, ref) => {
 		return (
 			<div className={className || "top-0 left-0 w-full h-full fixed "}>
 				<Canvas
