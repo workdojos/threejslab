@@ -13,7 +13,7 @@ export const projects: FeatureCard[] = [
 			"GSAP",
 		],
 		description:
-			"Earth mesh with randomized planes paths. Day/night shift on mouse interaction",
+			"Earth mesh with randomized planes paths.",
 		link: "/lab/earth-day-and-night",
 	},
 	{
@@ -26,158 +26,158 @@ export const projects: FeatureCard[] = [
 		headline: "Particles exploding carousel with video",
 		tags: ["Particles", "R3F", "Carousel", "Custom Shaders", "GSAP"],
 		description:
-			"Particles transition effect between videos. Created with custom shaders. Inspired by https://www.m-trust.co.jp",
+			"Particles transition effect between videos",
 		link: "/lab/exploding-particles",
 	},
 	{
 		headline: "Custom fragment shaders",
 		tags: ["R3F", "Custom Shaders"],
 		description:
-			"Custom shaders collection, playing with colors, shape and uv position",
+			"Custom shaders collection",
 		link: "/lab/shaders-selector",
 	},
 	{
 		headline: "Particles carousel with mouse interaction",
 		tags: ["R3F", "Custom Shaders", "Particles", "GSAP", "Carousel"],
 		description:
-			"Image carousel build on top of particle effect with custom shader. Wave effect on mouse movement",
+			"Image carousel",
 		link: "/lab/interactive-particles",
 	},
 	{
 		headline: "Particles galaxy",
 		tags: ["R3F", "Custom Shaders", "Particles"],
 		description:
-			"Static and animated version of galaxy generator with configuration options",
+			"galaxy generator",
 		link: "/lab/galaxy",
 	},
 	{
 		headline: "3D carousel",
 		tags: ["R3F", "Carousel", "Camera control"],
-		description: "3D slider with camera movement showcasing product options",
+		description: "3D slider",
 		link: "/lab/3d-car-slider",
 	},
 	{
 		headline: "3D infinite circle gallery",
 		tags: ["R3F", "Carousel", "Custom Shaders", "Mouse interaction"],
 		description:
-			"3D slider with infinite circullar effect and fabric-like animation",
+			"3D infinity slider",
 		link: "/lab/infinite-gallery",
 	},
 	{
 		headline: "Scroll animated plane journey",
 		tags: ["R3F", "Scroll", "Custom Shaders"],
 		description:
-			"Scroll based plane journey with speed up effect, bacground change and text embed",
+			"Fly an airplane",
 		link: "/lab/scroll-plane",
 	},
 	{
 		headline: "Page smooth transition",
 		tags: ["R3F", "Scroll", "Custom Shaders", "GSAP", "Navigation"],
 		description:
-			"Awwward smooth transition between WebGL and static pages in NextJS",
+			"Transitions",
 		link: "/lab/page-transition",
 	},
 	{
 		headline: "Heat distortion effect",
 		tags: ["R3F", "Parallax", "Custom Shaders"],
 		description:
-			"Heat distortion effect on static image with depth/parallax on mouse movement",
+			"Heat distortion effect",
 		link: "/lab/distortion-effect",
 	},
 	{
 		headline: "Image Transition Effect",
 		tags: ["R3F", "Custom Shaders"],
 		description:
-			"Image transition between 2 states of picture on hover using shader distortion",
+			"Image transition",
 		link: "/lab/image-transition",
 	},
 	{
 		headline: "Product showcase 3D",
 		tags: ["R3F", "Postprocessing", "Html mixture"],
 		description:
-			"3d product showcase with bloom postrosessing, text shader and camera controls",
+			"3D product showcase",
 		link: "/lab/mesmerized-3d",
 	},
 	{
 		headline: "Cybertruck body shaders",
 		tags: ["R3F", "Custom Shaders"],
-		description: "Cybertruck body shader configuration",
+		description: "Cybertruck",
 		link: "/lab/truck-shader",
 	},
 	{
 		headline: "Scroll Gallery",
 		tags: ["R3F", "Image", "Scroll", "Mouse Interaction"],
-		description: "Gallery with interaction effect on hover and click",
+		description: "Gallery",
 		link: "/lab/scroll-gallery",
 	},
 	{
 		headline: "Portal Scene",
 		tags: ["R3F", "Blender", "LowPoly", "Custom Shaders"],
 		description:
-			"Low poly 3d scene created in Blender with baked shadows. Custom shader for portal light",
+			"Low poly 3D scene",
 		link: "/lab/portal",
 	},
 	{
 		headline: "Forest Road Scene",
 		tags: ["R3F", "Blender", "LowPoly"],
-		description: "Low poly 3d scene created in Blender with baked shadows",
+		description: "Baked shadows",
 		link: "/lab/forest-road",
 	},
 	{
 		headline: "Scene transition",
 		tags: ["R3F", "Custom Shaders", "Render Target"],
-		description: "Custom shader transition between to scenes",
+		description: "Scene transition",
 		link: "/lab/scene-transition",
 	},
 	{
 		headline: "Scroll Gallery 2",
 		tags: ["R3F", "Image", "Scroll"],
-		description: "Gallery with interaction effect on scroll and text mix",
+		description: "Interaction effect on scroll",
 		link: "/lab/scroll-gallery2",
 	},
 	{
 		headline: "Ruins Scene",
 		tags: ["R3F", "Blender", "LowPoly", "Custom Shaders"],
-		description: "Low poly 3d scene created in Blender with baked shadows",
+		description: "Low poly 3d scene, baked",
 		link: "/lab/ruins-scene",
 	},
 	{
 		headline: "Lens Effect with Scrollable Page",
 		tags: ["R3F", "Image", "Scroll", "Lens Effect"],
-		description: "Mix with scrollable gallery and lens bound to mouse movement",
+		description: "Scrollable gallery",
 		link: "/lab/glass-effect",
 	},
 	{
 		headline: "Water Effect for 3D Scene",
 		tags: ["R3F", "Image", "Custom Shader", "Mouse interaction"],
-		description: "Water Effect on mouse interaction for rendered 3D scene",
+		description: "Water Effect",
 		link: "/lab/water-effect",
 	},
 	{
 		headline: "Portals",
 		tags: ["R3F", "Portal", "Mouse interaction"],
 		description:
-			"Scene with different portals and mouse interaction for entering world",
+			"Portals",
 		link: "/lab/pocketmonster-portals",
 	},
 	{
 		headline: "Paint Reveal Scene",
 		tags: ["R3F", "Custom Shader", "Mouse interaction"],
 		description:
-			"Sobel to original scene transition via paint reveal effect. Inspired by https://kidsuper.world/",
+			"Paint reveal effect",
 		link: "/lab/paint-reveal",
 	},
 	{
 		headline: "Infinite Text Scroll",
 		tags: ["R3F", "Custom Shader", "Mouse interaction"],
 		description:
-			"Infinite book scroll with cover change and distortion ripple effect. Inspired by https://designembraced.com/",
+			"Infinite book scroll",
 		link: "/lab/scroll-text-gallery",
 	},
 	{
 		headline: "Cyberpunk Scene",
 		tags: ["R3F", "Blender", "LowPoly"],
-		description: "Low poly 3d scene created in Blender",
+		description: "Low poly 3d scene",
 		link: "/lab/cloud69-scene",
 	},
 	{
@@ -191,13 +191,13 @@ export const projects: FeatureCard[] = [
 		headline: "Smoke custom material",
 		tags: ["R3F", "Custom Shader", "Blender"],
 		description:
-			"Kitchen scene with cheap smoke shader based on perlin texture",
+			"Kitchen scene",
 		link: "/lab/kitchen-smoke",
 	},
 	{
 		headline: "Star Wars scene",
 		tags: ["R3F", "Custom Shader", "Blender"],
-		description: "Custom blender scene recreated with holographic material",
+		description: "Holographic material",
 		link: "/lab/star-wars-hologram",
 	},
 	{
@@ -211,129 +211,129 @@ export const projects: FeatureCard[] = [
 			"Mouse interaction",
 		],
 		description:
-			"Custom low poly blender park scene with fireworks on mouse interaction",
+			"Fireworks",
 		link: "/lab/fireworks",
 	},
 	{
 		headline: "Custom light shading",
 		tags: ["R3F", "Custom Shader"],
 		description:
-			"Simplified version of directional, point and ambient light added via shader",
+			"Directional",
 		link: "/lab/light-shading",
 	},
 	{
 		headline: "Raging Sea Scene",
 		tags: ["R3F", "Custom Shader"],
-		description: "Customazible raging water shader with floated boat",
+		description: "Raging water",
 		link: "/lab/raging-sea",
 	},
 	{
 		headline: "Halftone Shading",
 		tags: ["R3F", "Custom Shader"],
-		description: "Custom halftone shading with custom transition",
+		description: "Halftone",
 		link: "/lab/halftone-shading",
 	},
 	{
 		headline: "Shaman Scene",
 		tags: ["R3F", "Custom Shader", "Blender"],
 		description:
-			"Shaman character created from scratch in Blender with grass shader",
+			"Shaman",
 		link: "/lab/shaman",
 	},
 	{
 		headline: "Earth",
 		tags: ["R3F", "Custom Shader"],
 		description:
-			"Earth with realistinc terrain, height, cloud and atmosphere shaders, day/night change and sun lens flare",
+			"Earth",
 		link: "/lab/earth",
 	},
 	{
 		headline: "Cyberpunk Vending Machine",
 		tags: ["R3F", "Custom Shader", "Blender", "Particles"],
 		description:
-			"Cyberpunk style vending machine with smoke and fire shaders. Try if you dare. Created for Threejs Journey challange",
+			"Cyberpunk vending machine",
 		link: "/lab/vending-machine",
 	},
 	{
 		headline: "SciFi Coridor",
 		tags: ["R3F", "Blender"],
 		description:
-			"SciFi coridor created in blender with heavy usage of hard surface modeling and boolean operators",
+			"SciFi corridor",
 		link: "/lab/scifi-coridor",
 	},
 	{
 		headline: "Particles Morphing",
 		tags: ["R3F", "Custom Shader", "Particles", "Scroll"],
 		description:
-			"Particles morphing animation into different models bound to scroll",
+			"Particles morphing",
 		link: "/lab/particles-morphing",
 	},
 	{
 		headline: "Wobble Sphere",
 		tags: ["R3F", "Custom Shader"],
-		description: "Wobble sphere with controls and shadow support",
+		description: "Wobble sphere",
 		link: "/lab/wobbly-sphere",
 	},
 	{
 		headline: "Procedural terrain",
 		tags: ["R3F", "Custom Shader", "Scroll"],
 		description:
-			"Climate change procedural terrain scene, based on scroll animation",
+			"Terrain scene",
 		link: "/lab/procedural-terrain",
 	},
 	{
 		headline: "Warp Slider",
 		tags: ["R3F", "Custom Shader", "Mouse interaction"],
 		description:
-			"Slider with warp effect on mouse interaction and progress change",
+			"Warp effect",
 		link: "/lab/warp-slider",
 	},
 	{
 		headline: "Isabella Explorer",
 		tags: ["R3F", "Custom Shader", "Blender"],
 		description:
-			"Meet Isabella, explorer of the unknown. Created in Blender while learning character modeling",
+			"Meet Isabella",
 		link: "/lab/isabella-explorer",
 	},
 	{
 		headline: "SDF Shape Sky",
 		tags: ["R3F", "Custom Shader", "SDF Shapes"],
 		description:
-			"Day and night animation sky created exclusively with SDF shapes",
+			"Day and night",
 		link: "/lab/sdf-shapes",
 	},
 	{
 		headline: "Infinite wormhole",
 		tags: ["R3F", "Edges"],
-		description: "Trevel through infinite wormhole with Tron vibe",
+		description: "Infinite wormhole",
 		link: "/lab/wormhole",
 	},
 	{
 		headline: "Physics based interactive objects",
 		tags: ["R3F", "Rapier", "Physics", "Mouse interaction"],
 		description:
-			"Combination of dynamic gravity and physics based coliision mouse interaction scene",
+			"Dynamic gravity",
 		link: "/lab/interactive-objects",
 	},
 	{
 		headline: "Color Boost Shader",
 		tags: ["R3F", "Custom Shader", "Mouse interaction"],
 		description:
-			"Realtime color boost / image grayscale shader with mouse interaction for color picking",
+			"Realtime color boost",
 		link: "/lab/color-boost",
 	},
 	{
 		headline: "Pixelated Image Slider",
 		tags: ["R3F", "Custom Shader", "Mouse interaction"],
 		description:
-			"Tribute to the grate tool nowerdays - Leonardo AI, presening the greate work with pixel scale slider",
+			"Pixel scale slider",
 		link: "/lab/pixalated",
 	},
 	{
 		headline: "Constellation Particles Animation",
 		tags: ["R3F", "Custom Shader", "Particles"],
 		description:
-			"3D version of travel particles constellation animation with controls",
+			"Travel particles constellation",
 		link: "/lab/particle-constellation",
 	},
 	{
@@ -346,28 +346,28 @@ export const projects: FeatureCard[] = [
 			"Blender",
 		],
 		description:
-			"Threejs implementation of Cosmin Capitanu work (https://dribbble.com/shots/16460483-Cake-Couch) using custom blur shader and HTML/3D mixture. Models are handcrafted in Blender",
+			"Custom blur shader and HTML/3D mixture",
 		link: "/lab/product-showcase",
 	},
 	{
 		headline: "Toilet Paper 3D menu",
 		tags: ["R3F", "Mouse interaction", "Html mixture", "Blender"],
 		description:
-			"Threejs implementation of Voicu Apostol work (https://dribbble.com/shots/24067227--Paper-Menu) using HTML/3D mixture technique. Models are handcrafted in Blender, textured in Substance Painter",
+			"HTML/3D mixture technique",
 		link: "/lab/3d-paper-menu",
 	},
 	{
 		headline: "Curved Image Gallery",
 		tags: ["R3F", "Mouse interaction", "Html mixture", "Custom Shader"],
 		description:
-			"Featured curved image gallary reacting to mouse movement speed and direction. Slide changes based on hovered link",
+			"Curved image gallary",
 		link: "/lab/curved-image-gallery",
 	},
 	{
 		headline: "3D Skateboard configurator",
 		tags: ["R3F", "Mouse interaction", "Html mixture", "Blender"],
 		description:
-			"Threejs implementation of awazing Sacha Jerrems work (https://dribbble.com/shots/14078930-Skateboard-configurator) of UX flow for skateboard configurator using HTML/3D mixture technique. Models are handcrafted and textured in Blender",
+			"Skateboard configurator",
 		link: "/lab/skateboard-configurator",
 	},
 ];
