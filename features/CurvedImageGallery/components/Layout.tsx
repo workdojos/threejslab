@@ -1,6 +1,6 @@
 "use client";
 
-import CanvasWrapper from "@/components/CanvasWrapper";
+
 import Links from "./Links";
 import Experience from "./Experience";
 

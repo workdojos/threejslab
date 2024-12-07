@@ -4,7 +4,7 @@ import CanvasWrapper from "@/components/CanvasWrapper";
 import React from "react";
 import Experience from "./Experience";
 import { Leva } from "leva";
-
+import Overlay from "./Overlay";
 
 export default function Layout() {
 	return (
