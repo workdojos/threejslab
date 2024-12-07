@@ -1,6 +1,6 @@
 "use client";
 
-
+import CanvasWrapper from "@/components/CanvasWrapper";
 import Links from "./Links";
 import Experience from "./Experience";
 
@@ -19,7 +19,12 @@ export default function Layout() {
 				</div>
 			</div>
 
-
+			<CanvasWrapper
+				id="image-canvas"
+				className="pointer-events-none top-0 left-0 w-full h-full fixed"
+			>
+				<Experience />
+			</CanvasWrapper>
 		</div>
 	);
 }

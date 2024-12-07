@@ -11,7 +11,8 @@ export default function FeatureCard({
 		<Link
 			href={link}
 			className="border-4 block border-solid border-blue-950 p-4 rounded-2xl after:content-[''] relative overflow-hidden after:w-full after:h-full after:absolute after:bg-blue-950 after:top-0 after:left-0 after:opacity-0 hover:after:opacity-100 after:-z-10 transition-colors duration-300 hover:text-white after:transition-all after:duration-300 h-full"
-		>
+						target="_blank"
+>
 			<h3 className="font-semibold">{headline}</h3>
 
 			{tags && tags.length && (
