@@ -19,12 +19,7 @@ export default function Layout() {
 				</div>
 			</div>
 
-			<CanvasWrapper
-				id="image-canvas"
-				className="pointer-events-none top-0 left-0 w-full h-full fixed"
-			>
-				<Experience />
-			</CanvasWrapper>
+
 		</div>
 	);
 }
